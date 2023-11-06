@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+  <Person>
+    <LastName>Ivanov</LastName>
+    <FirstName>Mihail</FirstName>
+    <FatherName>Alexandrovich</FatherName>
+    <Age>20</Age>
+    <Group>1</Group>
+  </Person>
+  <Person>
+    <LastName>Petrova</LastName>
+    <FirstName>Irina</FirstName>
+    <FatherName>Pavlovna</FatherName>
+    <Age>20</Age>
+    <Group>1</Group>
+  </Person>
+  <Person>
+    <LastName>Petrov</LastName>
+    <FirstName>Andrey</FirstName>
+    <FatherName>Ivanovich</FatherName>
+    <Age>20</Age>
+    <Group>1</Group>
+  </Person>
+</Students>
